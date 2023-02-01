@@ -1,0 +1,140 @@
+lockfileVersion: 5.3
+
+specifiers:
+  '@dimforge/rapier2d-compat': ^0.7.5
+  typescript: ^4.3.2
+  vite: ^2.5.4
+
+dependencies:
+  '@dimforge/rapier2d-compat': registry.nlark.com/@dimforge/rapier2d-compat/0.7.5
+
+devDependencies:
+  typescript: registry.nlark.com/typescript/4.4.2
+  vite: registry.nlark.com/vite/2.5.5
+
+packages:
+
+  registry.nlark.com/@dimforge/rapier2d-compat/0.7.5:
+    resolution: {integrity: sha1-X8n9kZTJaBJ1tF56OPFlfd3VgxE=, registry: https://registry-npm.gaoding.com/, tarball: https://registry.nlark.com/@dimforge/rapier2d-compat/download/@dimforge/rapier2d-compat-0.7.5.tgz}
+    name: '@dimforge/rapier2d-compat'
+    version: 0.7.5
+    dev: false
+
+  registry.nlark.com/colorette/1.4.0:
+    resolution: {integrity: sha1-UZD7uHJ2JZqGrXAL/yxtb6o/ykA=, registry: https://registry-npm.gaoding.com/, tarball: https://registry.nlark.com/colorette/download/colorette-1.4.0.tgz}
+    name: colorette
+    version: 1.4.0
+    dev: true
+
+  registry.nlark.com/esbuild/0.12.25:
+    resolution: {integrity: sha1-whMc7wIs+f6UqqXgARCyf8l2Iho=, registry: https://registry-npm.gaoding.com/, tarball: https://registry.nlark.com/esbuild/download/esbuild-0.12.25.tgz}
+    name: esbuild
+    version: 0.12.25
+    hasBin: true
+    requiresBuild: true
+    dev: true
+
+  registry.nlark.com/is-core-module/2.6.0:
+    resolution: {integrity: sha1-11U7JSb+Wbkro+QMjfdX7Ipwnhk=, registry: https://registry-npm.gaoding.com/, tarball: https://registry.nlark.com/is-core-module/download/is-core-module-2.6.0.tgz}
+    name: is-core-module
+    version: 2.6.0
+    dependencies:
+      has: registry.npm.taobao.org/has/1.0.3
+    dev: true
+
+  registry.nlark.com/nanoid/3.1.25:
+    resolution: {integrity: sha1-CcoydHwOVD8OGBS303k0d/nI4VI=, registry: https://registry-npm.gaoding.com/, tarball: https://registry.nlark.com/nanoid/download/nanoid-3.1.25.tgz}
+    name: nanoid
+    version: 3.1.25
+    engines: {node: ^10 || ^12 || ^13.7 || ^14 || >=15.0.1}
+    hasBin: true
+    dev: true
+
+  registry.nlark.com/path-parse/1.0.7:
+    resolution: {integrity: sha1-+8EUtgykKzDZ2vWFjkvWi77bZzU=, registry: https://registry-npm.gaoding.com/, tarball: https://registry.nlark.com/path-parse/download/path-parse-1.0.7.tgz}
+    name: path-parse
+    version: 1.0.7
+    dev: true
+
+  registry.nlark.com/postcss/8.3.6:
+    resolution: {integrity: sha1-JzDddql5afN/U7mmCWGXvjEcxOo=, registry: https://registry-npm.gaoding.com/, tarball: https://registry.nlark.com/postcss/download/postcss-8.3.6.tgz}
+    name: postcss
+    version: 8.3.6
+    engines: {node: ^10 || ^12 || >=14}
+    dependencies:
+      colorette: registry.nlark.com/colorette/1.4.0
+      nanoid: registry.nlark.com/nanoid/3.1.25
+      source-map-js: registry.nlark.com/source-map-js/0.6.2
+    dev: true
+
+  registry.nlark.com/rollup/2.56.3:
+    resolution: {integrity: sha1-tj7a3ZhRsNYYptDmr4IBlVp3rv8=, registry: https://registry-npm.gaoding.com/, tarball: https://registry.nlark.com/rollup/download/rollup-2.56.3.tgz?cache=0&sync_timestamp=1629698767006&other_urls=https%3A%2F%2Fregistry.nlark.com%2Frollup%2Fdownload%2Frollup-2.56.3.tgz}
+    name: rollup
+    version: 2.56.3
+    engines: {node: '>=10.0.0'}
+    hasBin: true
+    optionalDependencies:
+      fsevents: registry.npm.taobao.org/fsevents/2.3.2
+    dev: true
+
+  registry.nlark.com/source-map-js/0.6.2:
+    resolution: {integrity: sha1-C7XeYxtBz72mz7qL0FqA79/SOF4=, registry: https://registry-npm.gaoding.com/, tarball: https://registry.nlark.com/source-map-js/download/source-map-js-0.6.2.tgz}
+    name: source-map-js
+    version: 0.6.2
+    engines: {node: '>=0.10.0'}
+    dev: true
+
+  registry.nlark.com/typescript/4.4.2:
+    resolution: {integrity: sha1-bWGGQNQw41aaHftE99fmAM7T7oY=, registry: https://registry-npm.gaoding.com/, tarball: https://registry.nlark.com/typescript/download/typescript-4.4.2.tgz?cache=0&sync_timestamp=1631007376695&other_urls=https%3A%2F%2Fregistry.nlark.com%2Ftypescript%2Fdownload%2Ftypescript-4.4.2.tgz}
+    name: typescript
+    version: 4.4.2
+    engines: {node: '>=4.2.0'}
+    hasBin: true
+    dev: true
+
+  registry.nlark.com/vite/2.5.5:
+    resolution: {integrity: sha1-mVQJeR2dFuMYkNXEGS/P9dCw94w=, registry: https://registry-npm.gaoding.com/, tarball: https://registry.nlark.com/vite/download/vite-2.5.5.tgz?cache=0&sync_timestamp=1631071655028&other_urls=https%3A%2F%2Fregistry.nlark.com%2Fvite%2Fdownload%2Fvite-2.5.5.tgz}
+    name: vite
+    version: 2.5.5
+    engines: {node: '>=12.2.0'}
+    hasBin: true
+    dependencies:
+      esbuild: registry.nlark.com/esbuild/0.12.25
+      postcss: registry.nlark.com/postcss/8.3.6
+      resolve: registry.npm.taobao.org/resolve/1.20.0
+      rollup: registry.nlark.com/rollup/2.56.3
+    optionalDependencies:
+      fsevents: registry.npm.taobao.org/fsevents/2.3.2
+    dev: true
+
+  registry.npm.taobao.org/fsevents/2.3.2:
+    resolution: {integrity: sha1-ilJveLj99GI7cJ4Ll1xSwkwC/Ro=, registry: https://registry-npm.gaoding.com/, tarball: https://registry.npm.taobao.org/fsevents/download/fsevents-2.3.2.tgz?cache=0&sync_timestamp=1612537044236&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Ffsevents%2Fdownload%2Ffsevents-2.3.2.tgz}
+    name: fsevents
+    version: 2.3.2
+    engines: {node: ^8.16.0 || ^10.6.0 || >=11.0.0}
+    dev: true
+    optional: true
+
+  registry.npm.taobao.org/function-bind/1.1.1:
+    resolution: {integrity: sha1-pWiZ0+o8m6uHS7l3O3xe3pL0iV0=, registry: https://registry-npm.gaoding.com/, tarball: https://registry.npm.taobao.org/function-bind/download/function-bind-1.1.1.tgz}
+    name: function-bind
+    version: 1.1.1
+    dev: true
+
+  registry.npm.taobao.org/has/1.0.3:
+    resolution: {integrity: sha1-ci18v8H2qoJB8W3YFOAR4fQeh5Y=, registry: https://registry-npm.gaoding.com/, tarball: https://registry.npm.taobao.org/has/download/has-1.0.3.tgz}
+    name: has
+    version: 1.0.3
+    engines: {node: '>= 0.4.0'}
+    dependencies:
+      function-bind: registry.npm.taobao.org/function-bind/1.1.1
+    dev: true
+
+  registry.npm.taobao.org/resolve/1.20.0:
+    resolution: {integrity: sha1-YpoBP7P3B1XW8LeTXMHCxTeLGXU=, registry: https://registry-npm.gaoding.com/, tarball: https://registry.npm.taobao.org/resolve/download/resolve-1.20.0.tgz?cache=0&sync_timestamp=1613098300584&other_urls=https%3A%2F%2Fregistry.npm.taobao.org%2Fresolve%2Fdownload%2Fresolve-1.20.0.tgz}
+    name: resolve
+    version: 1.20.0
+    dependencies:
+      is-core-module: registry.nlark.com/is-core-module/2.6.0
+      path-parse: registry.nlark.com/path-parse/1.0.7
+    dev: true
